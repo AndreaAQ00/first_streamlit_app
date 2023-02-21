@@ -2,7 +2,7 @@ import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
 
-streamlit.header(' :bowl_with_spoon:Breakfast Favorites')
+streamlit.header(':bowl_with_spoon: Breakfast Favorites')
 
 streamlit.text(':bowl_with_spoon: Omega 3 & Blueberry Oatmeal')
 streamlit.text(':green_salad:Kale, Spinach & Rocket Smoothie')
